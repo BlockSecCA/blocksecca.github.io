@@ -1,8 +1,10 @@
-== blocksecca.github.io
+blocksecca.github.io
+====================
 
 Project site created for the BlockSec.ca site by the blog author. Its purpose is to share ideas, code and documentation.
 
-== README FIRST
+README FIRST!
+=============
 
 Mandatory Legalese.
 
